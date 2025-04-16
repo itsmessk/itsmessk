@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DAST - Security Automation Tool**
 
-- 🌱 I’m currently learning **Flask, Docker, RabbitMQ**
+- 🌱 I’m currently learning **Flask, Docker, Redis**
 
 - 👯 I’m looking to collaborate on **OpenSource**
 
