@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sundar1007karthik@gmail.com**
 
-- 📄 Know about my experiences [sundarkarthik.tech/resume.pdf/](sundarkarthik.tech/resume.pdf/)
+- 📄 Know about my experiences [sundarkarthik.tech/resume.pdf/]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
