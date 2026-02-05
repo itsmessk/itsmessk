@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **IDAST - Security Automation Tool**
 
-- 🌱 I’m currently learning **Flask, Next.js, FastApi, Redis**
+- 🌱 I’m currently learning **SpringBoot, Next.js, Kafka, Redis**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
