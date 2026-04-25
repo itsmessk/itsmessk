@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmessk&label=Profile%20views&color=0e75b6&style=flat" alt="itsmessk" /> </p>
 
-<p align="left"> <a href="https://online-clipboard.online/online-clipboard/"><img src="https://online-clipboard.online/online-clipboard/" alt="itsmessk" /></a> </p>
 
-- 🔭 I’m currently working on **IDAST - Security Automation Tool**
+- 🔭 I’m currently working on **LLMs**
 
-- 🌱 I’m currently learning **SpringBoot, Next.js, Kafka, Redis**
+- 🌱 I’m currently learning **SpringBoot, Next.js, Kafka, Docker, AWS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
